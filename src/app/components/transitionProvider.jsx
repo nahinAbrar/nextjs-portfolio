@@ -1,6 +1,6 @@
 "use client"
 import { AnimatePresence, motion } from 'framer-motion'
-import Navbar from './NavBar'
+import Navbar from './Navbar'
 import { usePathname } from 'next/navigation'
 
 {/*OUR NEW LAYOUT PAGE*/ }
