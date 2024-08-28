@@ -1,8 +1,8 @@
 "use client";
 import { motion, useInView, useScroll } from "framer-motion";
-import Brain from "../components/Brain";
 import { useRef } from "react";
 import Image from "next/image";
+import Brain from "../components/Brain";
 
 const About = () => {
 
